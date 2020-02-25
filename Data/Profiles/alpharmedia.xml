@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Profile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <Name>peakerexel</Name>
+    <SteamGiftsSessionCookieValue>02913ef4b931d3dbb9650823cc1c6347</SteamGiftsSessionCookieValue>
+    <Cookies>
+        <Cookie Domain=".indiegala.com" Name="auth">"eyJfdXNlciI6WzU2NDQ1MjQ3MzE4OTE3MTIsMSwiYUtBUHc3VUZIMGNQV1k5MU5XblgyQSIsMTUzNjk0NzQ0NCwxNTM2OTQ3NDQ0XX0\075|1536947446|3c2eded8d8f44ebaa8a9295f0ce0761841b25e12"</Cookie>
+        <Cookie Domain=".indiegala.com" Name="incap_ses_273_255598">4rR7CLaXgVVYkYY3e+TJAxvym1sAAAAARomkuoeQia+HrDBenHsEWA==</Cookie>
+        <Cookie Domain=".indiegala.com" Name="nlbi_255598">tlGHHUUCYz8fq04Tf7DTXQAAAAB4SMHiT7apwZ5TZWWP7r/2</Cookie>
+        <Cookie Domain=".indiegala.com" Name="visid_incap_255598">eMDOdypXQvOvoB8dbJYqK23ym1sAAAAAQUIPAAAAAABldwtwGBt8VvJ0DpoBSBuT</Cookie>
+        <Cookie Domain="www.indiegala.com" Name="cb-enabled">accepted</Cookie>
+        <Cookie Domain="www.indiegala.com" Name="policy-popup">true</Cookie>
+    </Cookies>
+</Profile>
